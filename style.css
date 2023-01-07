@@ -1,0 +1,37 @@
+body 
+.img1{
+	width: 1500px;
+	height: 900px;
+  
+}
+.img2{
+	width: 120px;
+    height: 100px;
+}
+.txt1{
+	color: #343a40;
+	font-family: FA;
+    font-size: 35px;
+}
+.main{
+	display: flex;
+}
+.main  div{
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+}
+
+}
+.txt2{
+	background-color: #5fa8d3;
+	font-family: fantasy;
+	font-size: 50px;
+}
+.txt3
+{
+    padding-right:  60px;
+    width: 1000px;
+	height: 900px;
+	background-color: #98c1d9;
+}
